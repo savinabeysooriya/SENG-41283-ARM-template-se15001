@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "dashboards_03faf1e8_acd7_4a1a_a33c_3da0e8292db0_dashboard_name": {
+            "value": null
+        },
+        "components_app_monitoring_externalid": {
+            "value": null
+        }
+    }
+}
